@@ -8,3 +8,4 @@
 - [simitk显示某个slice的图像.py](https://github.com/WangRongsheng/Image-Registration/blob/main/tools/simitk%E6%98%BE%E7%A4%BA%E6%9F%90%E4%B8%AAslice%E7%9A%84%E5%9B%BE%E5%83%8F.py)
 - [fix_spacing.py](https://github.com/WangRongsheng/Image-Registration/blob/main/tools/fix_spacing.py) ：修正dicom里面的spacing以及其他各种信息
 - [affine.py](https://github.com/WangRongsheng/Image-Registration/blob/main/tools/affine.py) ：两张图像进行仿射配准，并保存为nii或者png格式
+- [verify_affine.py](https://github.com/WangRongsheng/Image-Registration/blob/main/tools/verify_affine.py) ：根据上述affine.py产生的结果反向减法求出moving-image进行对比
