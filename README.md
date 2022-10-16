@@ -10,3 +10,5 @@
 - [affine.py](https://github.com/WangRongsheng/Image-Registration/blob/main/tools/affine.py) ：两张图像进行仿射配准，并保存为nii或者png格式
 - [verify_affine.py](https://github.com/WangRongsheng/Image-Registration/blob/main/tools/verify_affine.py) ：根据上述affine.py产生的结果反向减法求出moving-image进行对比
 - [get_point.py](https://github.com/WangRongsheng/Image-Registration/blob/main/tools/get_point.py) ：得到png或者其他格式图片中RGB或者灰度图为某个数的统计
+- [eval_affine.py](https://github.com/WangRongsheng/Image-Registration/blob/main/tools/eval_affine.py) ：简单方法计算两个图片的相似度
+- [eval_affine1.py](https://github.com/WangRongsheng/Image-Registration/blob/main/tools/eval_affine1.py) ：通过结构相似性SSIM计算图片的相似度
