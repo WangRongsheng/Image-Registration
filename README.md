@@ -12,3 +12,7 @@
 - [get_point.py](https://github.com/WangRongsheng/Image-Registration/blob/main/tools/get_point.py) ：得到png或者其他格式图片中RGB或者灰度图为某个数的统计
 - [eval_affine.py](https://github.com/WangRongsheng/Image-Registration/blob/main/tools/eval_affine.py) ：简单方法计算两个图片的相似度
 - [eval_affine1.py](https://github.com/WangRongsheng/Image-Registration/blob/main/tools/eval_affine1.py) ：通过结构相似性SSIM计算图片的相似度
+
+## Reference其他参考
+
+- [https://github.com/zuzhiang/MedicalImageProcess](https://github.com/zuzhiang/MedicalImageProcess)
